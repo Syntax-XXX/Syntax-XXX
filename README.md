@@ -30,7 +30,7 @@
 ### 📫 Contact
 
 - 📂 Projects: [github.com/Syntax-XXX](https://github.com/Syntax-XXX)
-- 📧 Email: elias.wiesinger@proton.me
+- 📧 Email: me@syntax-xxx.is-a.dev
 - 💬 Discord: `.Moinse908`
 
 ---
