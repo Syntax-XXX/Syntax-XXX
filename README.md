@@ -24,7 +24,7 @@
 
 ### 🚀 Current Projects
 
-- 🔭 I’m currently working on **![Current Project](https://img.shields.io/endpoint?url=https://syntax-xxx.is-a.dev/api/update-current-project?badge=1)**
+- 🚀  **![Current Project](https://img.shields.io/endpoint?url=https://syntax-xxx.is-a.dev/api/update-current-project?badge=1)**
 - 🌱 I’m learning **C++, C#, Python**
 
 ### 📫 Contact
