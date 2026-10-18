@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://ipv6.he.net/certification/">
-    <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=ewiesinger&amp;badge=3" alt="IPv6 Certification Badge for ewiesinger" width="229" height="137" />
+    <img src="//ipv6.he.net/certification/create_badge.php?pass_name=ewiesinger&amp;badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for ewiesinger"></img>
   </a>
 </p>
 
