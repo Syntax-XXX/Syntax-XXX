@@ -26,7 +26,7 @@
     <img align="center" src="https://api.statusbadges.me/badge/status/970379709596729446?simple=true" alt="status" />
   </a>
   <a href="https://syntax-xxx.is-a.dev">
-    <img align="center" src="https://api.statusbadges.me/badge/vscode/970379709596729446" alt="vscode" />
+    <img align="center" src="https://api.statusbadges.me/badge/vscode/970379709596729446" alt="vscode"/>
   </a>
   <a href="https://discord.gg/wEnW2kPwce">
     <img align="center" src="https://img.shields.io/discord/1375141754885640222?label=Discord&logo=discord&logoColor=fafafa&style=flat&color=6e3bf3" alt="discord" />
