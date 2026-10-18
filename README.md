@@ -49,7 +49,7 @@
     <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=ewiesinger&amp;badge=3" width="229" height="137" alt="Hurricane Electric IPv6 Certification — ewiesinger">
   </a>
 </p>
->
+
 
 ---
 
