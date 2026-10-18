@@ -44,11 +44,18 @@
 ### 🏅 Certifications
 
 
+
 <p align="center">
-  <a href="https://ipv6.he.net/certification/">
-    <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=ewiesinger&amp;badge=3" width="229" height="137" alt="Hurricane Electric IPv6 Certification — ewiesinger">
+  <a href="https://ipv6.he.net/certification/scoresheet.php?pass_name=ewiesinger">
+    <img
+      src="https://ipv6.he.net/certification/create_badge.php?pass_name=ewiesinger&amp;badge=3&amp;refresh=1"
+      width="229"
+      height="137"
+      alt="Hurricane Electric IPv6 Certification — ewiesinger"
+    />
   </a>
 </p>
+
 
 
 ---
