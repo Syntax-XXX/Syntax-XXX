@@ -109,11 +109,11 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Syntax-XXX/homelab-packet-tracer">
-    <img align="center" src="https://raw.githubusercontent.com/Syntax-XXX/Syntax-XXX/output/pin-homelab-packet-tracer.svg" alt="homelab-packet-tracer" />
+  <a href="https://github.com/Syntax-XXX/homelab-topologie">
+    <img align="center" src="https://raw.githubusercontent.com/Syntax-XXX/Syntax-XXX/output/pin-homelab-topologie.svg" alt="homelab-topologie" />
   </a>
 </p>
-<p align="center"><sub>🆕 <b>Homelab Packet Tracer</b> — live 3D topology of a homelab: rack view that unfolds, packets flowing over every cable, browser editor.</sub></p>
+<p align="center"><sub>🆕 <b>Homelab Topologie</b> — live 3D topology of a homelab: rack view that unfolds, packets flowing over every cable, browser editor.</sub></p>
 
 <p align="center">
   <a href="https://github.com/Syntax-XXX/DockPilot">

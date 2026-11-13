@@ -31,10 +31,10 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=transparent&title_color=6e3bf3&text_color=8b949e&hide_border=true
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Pin homelab-packet-tracer
+      - name: Pin homelab-topologie
         uses: stats-organization/github-readme-stats-action@v2
-        with: { card: pin, path: dist/pin-homelab-packet-tracer.svg, token: "${{ secrets.GITHUB_TOKEN }}",
-                options: "username=${{ github.repository_owner }}&repo=homelab-packet-tracer&theme=transparent&title_color=6e3bf3&icon_color=6e3bf3&text_color=8b949e&hide_border=true" }
+        with: { card: pin, path: dist/pin-homelab-topologie.svg, token: "${{ secrets.GITHUB_TOKEN }}",
+                options: "username=${{ github.repository_owner }}&repo=homelab-topologie&theme=transparent&title_color=6e3bf3&icon_color=6e3bf3&text_color=8b949e&hide_border=true" }
       - name: Pin DockPilot
         uses: stats-organization/github-readme-stats-action@v2
         with: { card: pin, path: dist/pin-DockPilot.svg, token: "${{ secrets.GITHUB_TOKEN }}",
