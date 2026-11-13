@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake & Profile Cards
 
 on:
   schedule:
@@ -22,6 +22,43 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Der öffentliche github-readme-stats-Server (vercel.app) antwortet nur noch mit 503 –
+      # die Karten werden hier selbst erzeugt und landen mit der Snake im Branch "output".
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=8b949e&icon_color=6e3bf3&hide_border=true
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=transparent&title_color=6e3bf3&text_color=8b949e&hide_border=true
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Pin homelab-packet-tracer
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, path: dist/pin-homelab-packet-tracer.svg, token: "${{ secrets.GITHUB_TOKEN }}",
+                options: "username=${{ github.repository_owner }}&repo=homelab-packet-tracer&theme=transparent&title_color=6e3bf3&icon_color=6e3bf3&text_color=8b949e&hide_border=true" }
+      - name: Pin DockPilot
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, path: dist/pin-DockPilot.svg, token: "${{ secrets.GITHUB_TOKEN }}",
+                options: "username=${{ github.repository_owner }}&repo=DockPilot&theme=transparent&title_color=6e3bf3&icon_color=6e3bf3&text_color=8b949e&hide_border=true" }
+      - name: Pin Open-LLM-VTuber-Addons
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, path: dist/pin-Open-LLM-VTuber-Addons.svg, token: "${{ secrets.GITHUB_TOKEN }}",
+                options: "username=${{ github.repository_owner }}&repo=Open-LLM-VTuber-Addons&theme=transparent&title_color=6e3bf3&icon_color=6e3bf3&text_color=8b949e&hide_border=true" }
+      - name: Pin parasitebot
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, path: dist/pin-parasitebot.svg, token: "${{ secrets.GITHUB_TOKEN }}",
+                options: "username=${{ github.repository_owner }}&repo=parasitebot&theme=transparent&title_color=6e3bf3&icon_color=6e3bf3&text_color=8b949e&hide_border=true" }
+      - name: Pin EnvTwin
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, path: dist/pin-EnvTwin.svg, token: "${{ secrets.GITHUB_TOKEN }}",
+                options: "username=${{ github.repository_owner }}&repo=EnvTwin&theme=transparent&title_color=6e3bf3&icon_color=6e3bf3&text_color=8b949e&hide_border=true" }
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

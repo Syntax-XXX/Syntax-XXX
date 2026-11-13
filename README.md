@@ -109,20 +109,27 @@
 ### 📌 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/Syntax-XXX/homelab-packet-tracer">
+    <img align="center" src="https://raw.githubusercontent.com/Syntax-XXX/Syntax-XXX/output/pin-homelab-packet-tracer.svg" alt="homelab-packet-tracer" />
+  </a>
+</p>
+<p align="center"><sub>🆕 <b>Homelab Packet Tracer</b> — live 3D topology of a homelab: rack view that unfolds, packets flowing over every cable, browser editor.</sub></p>
+
+<p align="center">
   <a href="https://github.com/Syntax-XXX/DockPilot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-XXX&repo=DockPilot&theme=transparent&title_color=6e3bf3&icon_color=6e3bf3&text_color=ffffff&hide_border=true" alt="DockPilot" />
+    <img align="center" src="https://raw.githubusercontent.com/Syntax-XXX/Syntax-XXX/output/pin-DockPilot.svg" alt="DockPilot" />
   </a>
   <a href="https://github.com/Syntax-XXX/Open-LLM-VTuber-Addons">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-XXX&repo=Open-LLM-VTuber-Addons&theme=transparent&title_color=6e3bf3&icon_color=6e3bf3&text_color=ffffff&hide_border=true" alt="Open-LLM-VTuber-Addons" />
+    <img align="center" src="https://raw.githubusercontent.com/Syntax-XXX/Syntax-XXX/output/pin-Open-LLM-VTuber-Addons.svg" alt="Open-LLM-VTuber-Addons" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Syntax-XXX/parasitebot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-XXX&repo=parasitebot&theme=transparent&title_color=6e3bf3&icon_color=6e3bf3&text_color=ffffff&hide_border=true" alt="parasitebot" />
+    <img align="center" src="https://raw.githubusercontent.com/Syntax-XXX/Syntax-XXX/output/pin-parasitebot.svg" alt="parasitebot" />
   </a>
   <a href="https://github.com/Syntax-XXX/EnvTwin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-XXX&repo=EnvTwin&theme=transparent&title_color=6e3bf3&icon_color=6e3bf3&text_color=ffffff&hide_border=true" alt="EnvTwin" />
+    <img align="center" src="https://raw.githubusercontent.com/Syntax-XXX/Syntax-XXX/output/pin-EnvTwin.svg" alt="EnvTwin" />
   </a>
 </p>
 
@@ -131,11 +138,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Syntax-XXX&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=ffffff&icon_color=6e3bf3&hide_border=true" alt="github stats" height="180" />
+  <a href="https://github.com/Syntax-XXX">
+    <img align="center" src="https://raw.githubusercontent.com/Syntax-XXX/Syntax-XXX/output/stats.svg" alt="github stats" height="180" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-XXX&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=ffffff&icon_color=6e3bf3&hide_border=true&langs_count=10" alt="top languages" height="180" />
+  <a href="https://github.com/Syntax-XXX">
+    <img align="center" src="https://raw.githubusercontent.com/Syntax-XXX/Syntax-XXX/output/top-langs.svg" alt="top languages" height="180" />
   </a>
 </p>
 
