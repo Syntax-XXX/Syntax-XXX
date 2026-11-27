@@ -3,12 +3,10 @@
 </p>
 
 <h1 align="center">Hey, I'm Syntax-XXX 👋</h1>
-<h3 align="center">Self-hoster · Homelab tinkerer · Creator behind <a href="https://www.youtube.com/@illhostitmyself">I'll Host It Myself</a></h3>
+<h3 align="center">Self-hoster · Homelab tinkerer · Hobby developer from Germany 🇩🇪</h3>
 
 <p align="center">
   <a href="https://syntax-xxx.is-a.dev"><img src="https://img.shields.io/badge/Website-syntax--xxx.is--a.dev-6E3BF3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
-  <a href="https://www.youtube.com/@illhostitmyself"><img src="https://img.shields.io/badge/YouTube-I%27ll%20Host%20It%20Myself-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
-  <a href="https://ihimys.hacksphere.online"><img src="https://img.shields.io/badge/IHIMYS-ihimys.hacksphere.online-6EE7A8?style=for-the-badge" alt="IHIMYS website" /></a>
   <a href="https://github.com/Syntax-XXX"><img src="https://img.shields.io/badge/GitHub-Syntax--XXX-6E3BF3?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
   <a href="https://discord.gg/wEnW2kPwce"><img src="https://img.shields.io/badge/Discord-.Moinse908-6E3BF3?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
   <a href="mailto:me@syntax-xxx.is-a.dev"><img src="https://img.shields.io/badge/Email-me@syntax--xxx.is--a.dev-6E3BF3?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
@@ -22,7 +20,7 @@
 
 ### 👨‍💻 About me
 
-I'm a hobby developer from Germany 🇩🇪 who spends too much time turning old hardware into home servers. I build tools for homelabs, self-hosting and the web — and document the chaos on [**I'll Host It Myself**](https://www.youtube.com/@illhostitmyself).
+I'm a hobby developer from Germany 🇩🇪 who spends too much time turning old hardware into home servers. I build tools for homelabs, self-hosting and the web — and occasionally write about it.
 
 - 🏠 Currently building a Debian-based DSM replacement for a 2012 Synology RS812 (ARMv5, 512 MB RAM).
 - 🐳 Working on **DockPilot**, a self-hosted Docker control center.
@@ -30,16 +28,6 @@ I'm a hobby developer from Germany 🇩🇪 who spends too much time turning old
 - 🦀 Writing a compiler in Rust because apparently I hate free time.
 - 🎯 Focus: self-hosting, homelabs, Debian on weird hardware, developer tooling.
 - ☕ Fun fact: I turn coffee into YAML.
-
-### 🎥 I'll Host It Myself
-
-Self-hosting, homelabs, and the occasional *"why is this on fire?"* moment.  
-I share builds, experiments, and things I probably shouldn't run in production.
-
-<p align="center">
-  <a href="https://www.youtube.com/@illhostitmyself"><img src="https://img.shields.io/badge/Watch%20on%20YouTube-I%27ll%20Host%20It%20Myself-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://ihimys.hacksphere.online"><img src="https://img.shields.io/badge/Visit-IHIMYS-6EE7A8?style=for-the-badge" alt="IHIMYS" /></a>
-</p>
 
 ### 🚀 What I'm building
 
@@ -108,8 +96,6 @@ Proxmox VE · Debian · Docker · Traefik · Caddy · Restic · Grafana · Prome
 ### 📫 Find me
 
 - 🌐 Website: [syntax-xxx.is-a.dev](https://syntax-xxx.is-a.dev)
-- 🎥 YouTube: [I'll Host It Myself](https://www.youtube.com/@illhostitmyself)
-- 🏠 IHIMYS: [ihimys.hacksphere.online](https://ihimys.hacksphere.online)
 - 💬 Discord: `.Moinse908` — [discord.gg/wEnW2kPwce](https://discord.gg/wEnW2kPwce)
 - 📧 Email: [me@syntax-xxx.is-a.dev](mailto:me@syntax-xxx.is-a.dev)
 
