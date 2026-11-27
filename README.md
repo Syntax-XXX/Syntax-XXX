@@ -56,6 +56,17 @@ I'm a hobby developer from Germany 🇩🇪 who spends too much time turning old
 
 Proxmox VE · Debian · Docker · Traefik · Caddy · Restic · Grafana · Prometheus · Uptime Kuma · Home Assistant · \*arr
 
+### 🖥️ Hardware
+
+| | Machine | What it does |
+| --- | --- | --- |
+| 🏗️ **Big server** | **Fujitsu PRIMERGY RX300 S6** (pve1) — 2× Intel Xeon E5645, 283 GB RAM | Proxmox node for heavy builds and game containers. Only on when needed — it is loud. |
+| 🧰 **Little server** | **HP ProDesk 405 G4** (pve2) — AMD Ryzen 5 PRO 2400G, 15 GB RAM, 250 GB NVMe | Always-on Proxmox node for the main services. |
+| 💾 **NAS** | **Synology RackStation RS812** — Marvell Kirkwood ARMv5, 512 MB RAM, 3× 4 TB | Debian 12 / RSRB storage for media, backups and repos. |
+| ☁️ **VPS** | **Oracle Cloud A1.Flex** — 2 OCPU ARM64, 12 GB RAM, 96 GB disk | Public gateway: Traefik, Coolify, SSO and mail. |
+
+Also in the mix: Cisco WS-C2960S-24PS-L switch, Starlink router, HP EliteBook x360 1030 G4 laptop and an i5-12400 desktop.
+
 ### 🛠 Languages & Tools
 
 <p align="center">
